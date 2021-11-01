@@ -16,3 +16,4 @@ Using neural networks to make stock predictions.
     - WSJ
     - SeekingAlpha
     - Check out reddit links to good sources
+ 
